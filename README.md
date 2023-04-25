@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Felipe Pimentel! 😎
 
-- 🔭   Hoje trabalho com biocombustíveis
 - 🌱   Estudando Back End
 - 🔎   Buscando oportunidade para transição de carreira
-
 
 
 <div align="center">
